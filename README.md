@@ -1,1 +1,1 @@
-# Face-rec
+# FaceApp-with-Deep-Learning
